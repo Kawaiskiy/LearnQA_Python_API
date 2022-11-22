@@ -73,4 +73,4 @@ class TestEx13:
 
         assert platform == actual_platform, f"Response parameter 'platform' are NOT correct: {actual_platform}. Expected: {platform}"
         assert browser == actual_browser,f"Response parameter 'browser' are NOT correct: {actual_browser}. Expected: {browser}"
-        assert device == actual_device, f"Response parameter 'browser' are NOT correct: {actual_device}. Expected: {device}
+        assert device == actual_device, f"Response parameter 'browser' are NOT correct: {actual_device}. Expected: {device}"
