@@ -11,4 +11,3 @@ class TestEX11:
 
         assert response.cookies['HomeWork'] == 'hw_value', \
             f"Incorrect response cookie: {response.cookies['HomeWork']}"
-
